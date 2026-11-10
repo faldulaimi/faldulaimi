@@ -3,16 +3,21 @@
   <img src="./banner.png" alt="Faisal Aldulaimi | Founder of DULVIO" width="100%" />
 </p>
 
-# Hi, I'm Faisal 👋
 
-### Founder of DULVIO | Software Developer
+## About Me
 
-I'm a software developer based in Newcastle upon Tyne, UK, focused on building practical software, data solutions, and digital experiences.
+I'm a UK-based software developer and founder of **DULVIO**, focused on building practical, scalable digital solutions.
 
-🚀 **Building:** DULVIO — Software, Data & Digital Solutions  
-💻 **Interested in:** Software Development, Data Analytics & Cloud Technology  
-🎮 **Experience with:** Game Server Development & Custom Scripting
+My background includes custom scripting, game server development, and software troubleshooting. I'm currently expanding my skills in software engineering, data analytics, and cloud technologies.
+
+- **Currently building:** DULVIO — Software & Digital Solutions
+- **Focus:** Software Development, Data Analytics & Automation
+- **Experience:** Custom Scripting & Game Server Development
+- **Location:** Newcastle upon Tyne, United Kingdom
 
 ---
 
-### Building technology that creates real impact.
+### What drives me
+
+Turning complex ideas into reliable, useful technology.
+
