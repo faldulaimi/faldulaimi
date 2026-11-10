@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="./banner.png" alt="Faisal Aldulaimi | Founder of DULVIO" width="100%" />
+</p>
+
 # Hi, I'm Faisal 👋
 
 ### Founder of DULVIO | Software Developer
